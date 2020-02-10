@@ -16,6 +16,8 @@
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+#### Test data [testdata/sampledata.tsv](testdata/sampledata.tsv)
+
 ### Initial Search Page : 
 <img src="images/initial_page.png" />
 
