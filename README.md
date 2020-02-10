@@ -24,8 +24,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### Search page with tsv content and clicked submit 
 <img src="images/search_page.png" />
 
-### Search page with generated url and hidded tsv content 
+### view page with generated url and hidded tsv content 
 <img src="images/page_with_generated_url_1.png" />
 
-### Search page with generated url and expanded tsv content
+### view page with generated url and expanded tsv content
 <img src="images/page_with_generated_url_2.png" />
