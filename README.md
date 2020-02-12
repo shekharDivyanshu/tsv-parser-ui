@@ -18,13 +18,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 #### Test data [testdata/sampledata.tsv](testdata/sampledata.tsv)
 
-### Initial Search Page : 
+### Initial tsv2json parser Page : 
 <img src="images/initial_page.png" />
 
-### Search page with tsv content and clicked submit 
+### tsv2json parser page with tsv content and submit clicked
 <img src="images/search_page.png" />
 
-### view page with generated url and hidded tsv content 
+### view page with generated url and hidden tsv content 
 <img src="images/page_with_generated_url_1.png" />
 
 ### view page with generated url and expanded tsv content
